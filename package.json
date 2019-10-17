@@ -1,0 +1,24 @@
+{
+  "name": "emojibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-nix/EmojiBot.git"
+  },
+  "author": "Daniel Nix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-nix/EmojiBot/issues"
+  },
+  "homepage": "https://github.com/daniel-nix/EmojiBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "readline-sync": "^1.4.10",
+    "replace-in-file": "^4.1.3"
+  }
+}
